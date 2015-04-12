@@ -2,3 +2,4 @@
 *.aspx linguist-vendored
 *.html linguist-vendored
 *.asset linguist-vendored
+*.unitypackage linguist-vendored
